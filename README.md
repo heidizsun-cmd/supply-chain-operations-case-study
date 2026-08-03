@@ -8,7 +8,7 @@ An evidence-based decision system for sourcing, supplier development, pricing, q
 
 ### Problem
 
-Small product businesses often decide from fragmented quotes, forecasts, supplier conversations, and operating records. A weighted score can hide a disqualifying risk; an average forecast can hide uncertainty; and adding suppliers may not add resilience when they fail in the same way. Supply-chain system turns those failure modes into visible operating guardrails.
+Small product businesses often decide from fragmented quotes, forecasts, supplier conversations, and operating records. A weighted score can hide a disqualifying risk; an average forecast can hide uncertainty; and adding suppliers may not add resilience when they fail in the same way. This system turns those failure modes into visible operating guardrails.
 
 ### Decision model
 
@@ -42,7 +42,7 @@ Vendor fit is not allowed to average away a failed guardrail. Capacity, margin, 
 
 ### Current case recommendation
 
-For Luz Cerámica, Supply-chain system recommends a 50-unit pilot rather than immediate scale. Advancement requires a stable sample-quality baseline, sufficient constraint capacity, and landed contribution margin of at least 55% in the downside scenario. This is decision support, not a guaranteed outcome.
+For Luz Cerámica, the model recommends a 50-unit pilot rather than immediate scale. Advancement requires a stable sample-quality baseline, sufficient constraint capacity, and landed contribution margin of at least 55% in the downside scenario. This is decision support, not a guaranteed outcome.
 
 ### Measurement plan
 
