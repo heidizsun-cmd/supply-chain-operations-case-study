@@ -8,11 +8,11 @@ An evidence-based decision system for sourcing, supplier development, pricing, q
 
 ### Problem
 
-Small product businesses often decide from fragmented quotes, forecasts, supplier conversations, and operating records. A weighted score can hide a disqualifying risk; an average forecast can hide uncertainty; and adding suppliers may not add resilience when they fail in the same way. This system turns those failure modes into visible operating guardrails.
+Small product businesses often operate from fragmented quotes, forecasts, supplier conversations, and operating records. A weighted score can hide a disqualifying risk, an average forecast can hide uncertainty, and adding suppliers may not create value as expected. This system turns those failure modes into visible operating guardrails.
 
 ### Decision model
 
-Store guardrails and analytics define the commercial need; company commitments define quantity and timing; vendor profiles define manufacturability, cost, capacity, quality, and recovery; and a live scenario produces an explainable go/hold decision. The model favors explicit constraints and traceable evidence over a single opaque score.
+Store guardrails and analytics define the commercial need, the company's costs define quantity and timing. The vendor profiles define manufacturability, cost, capacity, quality, and recovery; and a live scenario produces an explainable go/hold decision. This model favors explicit constraints and traceable evidence instead of a single opaque score. The thought process behind this is so that eventually the data can be sourced for an internal finance team for ease of differential analysis and managerial decisions. 
 
 ### Connected Decision Lab
 
@@ -23,7 +23,7 @@ The lab is organized around four linked records instead of isolated calculators:
 3. **Vendor profile:** capabilities, geography, capacity, lead time, MOQ, quote, quality history, and distinct response modes.
 4. **Scenario and decision brief:** demand range, MOQ-adjusted order plan, window capacity, landed cost, contribution margin, decision fit, blockers, and next action.
 
-Vendor fit is not allowed to average away a failed guardrail. Capacity, margin, and quality thresholds become explicit blockers. Scenario results must retain the selected store, company, and vendor context so the recommendation is auditable.
+'Vendor fit' factor will not average away a failed guardrail. Capacity, margin, and quality thresholds are explicit blockers. Scenario results must retain the selected store, company, and vendor context so the recommendation is auditable.
 
 ### Research translated into product behavior
 
@@ -42,11 +42,11 @@ Vendor fit is not allowed to average away a failed guardrail. Capacity, margin, 
 
 ### Current case recommendation
 
-For Luz Cerámica, the model recommends a 50-unit pilot rather than immediate scale. Advancement requires a stable sample-quality baseline, sufficient constraint capacity, and landed contribution margin of at least 55% in the downside scenario. This is decision support, not a guaranteed outcome.
+For example-store, the model recommends a 50-unit pilot rather than immediate scale. Advancement requires a stable sample-quality baseline, sufficient constraint capacity, and landed contribution margin of at least 55% in the downside scenario. This is a decision support, not a guaranteed outcome.
 
 ### Measurement plan
 
-Recalibrate from observed results. Track forecast error, order-to-sales variability, constraint utilization, WIP, cycle time, first-pass yield, defects by cause, on-time delivery, disruption loss, recovery time, landed margin, and supplier-development milestone completion.
+Recalibrates from observed results. Tracks forecast error, order-to-sales variability, constraint utilization, WIP, cycle time, first-pass yield, defects by cause, on-time delivery, disruption loss, recovery time, landed margin, and supplier-development milestone completion.
 
 ## References
 
