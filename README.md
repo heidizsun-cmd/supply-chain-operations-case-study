@@ -4,6 +4,19 @@
 
 An evidence-based decision system for sourcing, supplier development, pricing, quality, capacity, and fulfillment in a fictional small maker network.
 
+![MakerOps connected operations dashboard](docs/screenshots/dashboard.png)
+
+## Product tour
+
+![MakerOps sourcing and pricing walkthrough](docs/demo.gif)
+
+| | |
+| --- | --- |
+| **Problem** | Quotes, demand, capacity, quality, and supplier risk are usually reviewed in disconnected files. |
+| **Approach** | Connect operating records and enforce explicit guardrails before recommending scale. |
+| **Decision output** | An auditable go/hold brief with blockers, downside margin, capacity, and next action. |
+| **Stack** | TypeScript, React, Next.js/Vinext, Cloudflare Workers, and Drizzle ORM. |
+
 ## Case study: evidence-based operations for a small maker network
 
 ### Problem
